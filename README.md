@@ -57,14 +57,6 @@ Como o site é auto-contido em um único arquivo, você não precisa instalar se
 1. Faça o download ou clone este repositório.
 2. Dê um duplo clique no arquivo **`index.html`** para executá-lo diretamente em qualquer navegador (Chrome, Firefox, Safari, Edge).
 
-### Hospedagem na Web (Grátis)
-Para disponibilizar o site na internet para qualquer pessoa acessar, você pode usar o **GitHub Pages**:
-1. Faça o upload deste projeto em seu repositório pessoal do GitHub.
-2. Acesse as **Settings** (Configurações) do repositório.
-3. No menu lateral, selecione **Pages**.
-4. Em *Build and deployment*, escolha o branch **`main`** e clique em **Save**.
-5. Em instantes, o GitHub fornecerá o link público do seu site.
-
 ---
 
 ## 📝 Licença e Finalidade Acadêmica
